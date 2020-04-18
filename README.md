@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Developed during Rocketseat GoStack11 Bootcamp
+  Developed during Rocketseat's GoStack11 Bootcamp
 </h3>
 
 <p align="center">
